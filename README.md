@@ -31,4 +31,12 @@ The result is a mini medical-AI tool that predicts liver disease with high relia
 ![Histograms](https://github.com/tahertemraz/liver-patient-classification/blob/main/Figure_1.png)
 
 ## 🔥 Correlation Heatmap – Feature Relationships
-![Correlation Heatmap]
+![Correlation Heatmap](https://github.com/tahertemraz/liver-patient-classification/blob/main/Figure_2.png)
+
+## ⚠️ Outlier Analysis – Boxplots of Medical Features
+![Boxplots]
+
+
+
+## 🎯 Confusion Matrix – Logistic Regression Model
+![Confusion Matrix]
