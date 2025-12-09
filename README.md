@@ -39,4 +39,4 @@ The result is a mini medical-AI tool that predicts liver disease with high relia
 
 
 ## 🎯 Confusion Matrix – Logistic Regression Model
-![Confusion Matrix]
+![Confusion Matrix](https://github.com/tahertemraz/liver-patient-classification/blob/main/Figure_4.png)
