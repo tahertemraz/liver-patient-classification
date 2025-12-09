@@ -34,7 +34,7 @@ The result is a mini medical-AI tool that predicts liver disease with high relia
 ![Correlation Heatmap](https://github.com/tahertemraz/liver-patient-classification/blob/main/Figure_2.png)
 
 ## ⚠️ Outlier Analysis – Boxplots of Medical Features
-![Boxplots]
+![Boxplots](https://github.com/tahertemraz/liver-patient-classification/blob/main/Figure_3.png)
 
 
 
