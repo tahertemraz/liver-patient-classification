@@ -26,4 +26,3 @@ The result is a mini medical-AI tool that predicts liver disease with high relia
 - `liver_classification.py` — Main ML script  
 - `phpOJxGL9.arff` — Liver dataset  
 
-## 🏁 How to Run
