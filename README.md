@@ -27,4 +27,8 @@ The result is a mini medical-AI tool that predicts liver disease with high relia
 - `phpOJxGL9.arff` — Liver dataset  
 
 
+## 📊 Histograms – Distribution of Medical Features
 ![Histograms](https://github.com/tahertemraz/liver-patient-classification/blob/main/Figure_1.png)
+
+## 🔥 Correlation Heatmap – Feature Relationships
+![Correlation Heatmap]
